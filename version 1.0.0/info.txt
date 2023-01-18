@@ -1,1 +1,11 @@
+using the pynput module to test Keyboard buttons.
+
+The user should turn off any antvirus interrupts as it is flagged as a key tool but is 
+completly safe for use.
+
+Can be used to test if the keyboard works properly - Output to show which key is pressed
+and how it works is displayed on release of the press.
+
+                    Features.
+1.Test keyboard functionality Manually.
 
